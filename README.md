@@ -22,4 +22,4 @@ The series is aimed towards beginners trying to acquire the skill of building UI
 
 ## Feedback
 
-Should you find any issues with the code presented in the series, unclear information or want to discuss some of the topics further, please do <a href="../contact">get in touch</a>!
+Should you find any issues with the code presented in the series, unclear information or want to discuss some of the topics further, please do <a href="https://marpies.com/contact" target="_blank">get in touch</a>!
